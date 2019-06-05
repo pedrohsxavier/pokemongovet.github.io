@@ -12,7 +12,7 @@ virtuais trazidos pelo Pokémon Go, aplicativo de realidade aumentada, um meio
 de incentivar a adoção de animais reais. Atua com compartilhamento de código
 aberto e ações de marketing em redes sociais.
 
-**Detaque**
+**Destaque**
 - Saiba mais sobre [Solução Ponta-a-Ponta para adoção de animais (i.e. “Catioro GO”)](https://github.com/pokemongovet/pokemongovet.github.io/issues/27)
 - Não sabe programar mas quer ajudar? [Lista de problemas que não programadores fazem toda diferença](https://github.com/pokemongovet/pokemongovet.github.io/labels/para-nao-programadores)
 - Sabe HTML? [Ajude agora mesmo a cumprirmos a 2ª meta da iniciativa](https://github.com/pokemongovet/pokemongovet.github.io/issues/36).
